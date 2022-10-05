@@ -8,10 +8,10 @@ Maintained by Carhenia for [Nebula Network](https://nebulanetwork.net) <br />
 You can find the Colonia and Colonia Lite modpacks on CurseForge. We highly recommend you use a third party launcher such as GDLauncher instead of Overwolf. <br />
 You can find a full list of the mods on our wiki. 
 # Official Links
-Colonia: https://www.curseforge.com/minecraft/modpacks/colonia
-Colonia Lite: https://www.curseforge.com/minecraft/modpacks/colonia-lite
-Discord: https://discord.gg/9ZxeWesrzz
-Website: https://nebulanetwork.net/
-Wiki: https://wiki.nebulanetwork.net/
+Colonia: https://www.curseforge.com/minecraft/modpacks/colonia <br />
+Colonia Lite: https://www.curseforge.com/minecraft/modpacks/colonia-lite <br />
+Discord: https://discord.gg/9ZxeWesrzz <br />
+Website: https://nebulanetwork.net/ <br />
+Wiki: https://wiki.nebulanetwork.net/ <br />
 # Terms and conditions
 All files are modifications of .toml files provided by the original mods. All rights belong to the respective mod authors. 
